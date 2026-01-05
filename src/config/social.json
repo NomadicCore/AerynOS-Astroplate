@@ -1,24 +1,34 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
+      "name": "Mastodon",
+      "icon": "FaMastodon",
+      "link": "https://hachyderm.io/@AerynOS"
     },
     {
       "name": "x",
       "icon": "FaXTwitter",
-      "link": "https://x.com/"
+      "link": "https://x.com/AerynOS_Linux"
     },
     {
       "name": "github",
       "icon": "FaGithub",
-      "link": "https://www.github.com/"
+      "link": "https://github.com/AerynOS"
     },
     {
-      "name": "linkedin",
-      "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
+      "name": "BlueSky",
+      "icon": "FaBluesky",
+      "link": "https://bsky.app/profile/aerynos.com"
+    },
+    {
+      "name": "Reddit",
+      "icon": "FaReddit",
+      "link": "https://www.reddit.com/r/AerynOS/"
+    },
+    {
+      "name": "RSS",
+      "icon": "FaRss",
+      "link": "https://aerynos.com/blog/rss.xml"
     }
   ]
 }

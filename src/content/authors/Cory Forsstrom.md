@@ -1,7 +1,7 @@
 ---
-title: William Jacob
+title: Cory Forsstrom
 email: williamjacob@email.com
-image: "/images/avatar.png"
+image: "/images/avatars/tarkah.jpg"
 description: this is meta description
 social:
   - name: github
@@ -17,4 +17,4 @@ social:
     link: https://linkedin.com
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Staff coder at AerynOS with a wealth of experience coding in Rust.

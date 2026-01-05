@@ -9,45 +9,38 @@
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Downloads",
+      "url": "/downloads"
     },
     {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Contact",
-          "url": "/contact"
-        },
-        {
-          "name": "Blog",
-          "url": "/blog"
-        },
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
-        }
-      ]
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "Staff",
+      "url": "/authors"
     }
   ],
   "footer": [
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Downloads",
+      "url": "/downloads"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
     },
     {
       "name": "Privacy Policy",

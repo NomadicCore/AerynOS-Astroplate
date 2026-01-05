@@ -1,27 +1,27 @@
 ---
 enable: true
-title: "What Users Are Saying About Astroplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Astroplate."
+title: "What Users Are Saying About AerynOS"
+description: "Even though we are in an alpha state, we are still generated positive press from curious users.  Check out some of the initial reception to see what others are saying about AerynOS."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Jack Wallen"
+    designation: "Contributing Writer - ZDNet"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "AerynOS represents a revolutionary approach to Linux."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Cezar Henrique"
+    designation: "Linux Blogger"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Aeryn OS is currently a compelling platform for those interested in the craft of distribution building."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Sourav Rudra"
+    designation: "Contributing Writer - It's FOSS"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "AerynOS is gradually morphing from an early experimental phase into a flexible Linux distribution focused on scalability, reproducibility, and advanced tooling."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Bobby Borisov"
+    designation: "Linuxiac"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "AerynOS is shaping up to be something truly special — it brings a fresh, innovative concept to the Linux ecosystem that you don’t see in other distributions."
 ---
